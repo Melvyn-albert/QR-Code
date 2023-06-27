@@ -1,0 +1,51 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+body {
+    background-color: rgb(200, 218, 224);
+    width: 1440px;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+
+header {
+    background-color: beige;
+    height: 450px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+img {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    height: 250px;
+    width: 260px;
+    
+}
+ 
+h1 {
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    color: Dark blue hsl(218, 44%, 22%)
+}
+
+p {
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+    font-weight: 600;
+
+}
